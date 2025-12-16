@@ -14,4 +14,5 @@ public class Bitwise
   System.out.println(a>>b);
 }
 }
+
   

@@ -17,4 +17,5 @@ public static void main(String [] args)
 AB p= new AB();
 p.disp();
 }
+
 }

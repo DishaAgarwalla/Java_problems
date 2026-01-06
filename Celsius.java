@@ -17,4 +17,5 @@ Test t1 = new Test();
 double d =t1.celcius(r) ;
 System.out.println("farenhite to celcius "+d);
 }
+
 }

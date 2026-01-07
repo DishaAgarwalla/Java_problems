@@ -13,6 +13,6 @@ public class Assignment
  System.out.println(a%=b);
 }
 }
-
   
+
 

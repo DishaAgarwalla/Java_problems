@@ -12,4 +12,5 @@ class E4
 
 		System.out.println(" multiplication of two numbers" +multi);
 	}
+
 }

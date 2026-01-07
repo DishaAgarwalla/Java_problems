@@ -17,4 +17,5 @@ F b1 = new F();
 double d = b1.far(v);
 System.out.println("celcius to farenhite"+d);
 }
+
 }

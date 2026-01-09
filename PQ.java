@@ -20,4 +20,5 @@ p.getdata();
 p.show();
 System.out.println(p.x);
 }
+
 }

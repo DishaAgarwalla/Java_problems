@@ -80,7 +80,7 @@ public class MyATM {
             return;
         }
 
-        // Menu loop
+        
         while (true) {
             System.out.println("\n====== Welcome to ATM ======");
             System.out.println("1. View Balance");
@@ -125,3 +125,4 @@ public class MyATM {
         }
     }
 }
+

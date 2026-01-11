@@ -48,4 +48,5 @@ swap(array, i, j);
         System.out.println("Sorted array:");
         printArray(array);
     }
+
 }

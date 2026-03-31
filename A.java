@@ -16,7 +16,7 @@ for(i=1; i<100; i++)
 {
  if(i%j != 0)
 {
-System.out.println(i);
+System.out.println(i)
 break;
 }
 

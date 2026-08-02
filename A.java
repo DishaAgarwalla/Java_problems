@@ -14,7 +14,7 @@ for(i=1; i<100; i++)
 {
  for(j=2;j<i;i++)
 {
- if(i%j != 0)
+ if(i%j != 0) 
 { 
 System.out.println(i);
 break;
